@@ -2,7 +2,7 @@
 
 Code employed for my Bachelor Final Project:
 
-**DESIGN, DEVELOPMENT OF AN INTERNET OF THINGS ADVANCED BOTNET AND PROPOSAL OF COUNTERMEASURES
+**DESIGN, DEVELOPMENT OF AN INTERNET OF THINGS ADVANCED BOTNET AND PROPOSAL OF COUNTERMEASURES**
 
 Introduction to IoT current status, analysis and PoC of the impact a distributed botnet could produce.
 
